@@ -18,10 +18,23 @@ Ingalec hereby grants you a personal, non-transferable, non-exclusive licence to
 in accordance with the terms of this EULA agreement.
 You are permitted to load the Panic Mate software onto a device of your choosing.
 You are responsible for ensuring your device meets the minimum requirements of the Panic Mate software.
-You are not permitted to:
+**You are not permitted to:**
 1. Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or
 any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things.
 2. Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose.
 3. Allow any third party to use the Software on behalf of or for the benefit of any third party.
 4. Use the Software in any way which breaches any applicable local, national or international law.
 5. Use the Software for any purpose that Ingalec considers is a breach of this EULA agreement.
+
+## Intelectual Property and Ownership
+Ingalec shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you.
+The Software (and the copyright, and other intellectual property rights of whatever nature in the Software,
+including any modifications made thereto) are and shall remain the property of Ingalec.
+Ingalec reserves the right to grant licences to use the Software to third parties.
+
+## Termination
+This EULA agreement is effective from the date you first use the Software and shall continue until terminated.
+You may terminate it at any time upon written notice to Ingalec.
+
+## Governing Law
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of South Africa.
