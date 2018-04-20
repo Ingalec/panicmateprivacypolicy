@@ -6,7 +6,7 @@ This Application collects some Personal Data from its Users.
 
 ### Personal Data collected for the following purposes and using the following services:
 #### Device permissions for Personal Data access
-1. Personal Data: Approximate location permission (non-continuous), Contacts permission, Microphone permission, Phone permission, Precise location permission (non-continuous), SMS permission and Storage permission
+1. Personal Data: Approximate location permission (non-continuous), Contacts permission, Microphone permission, Phone permission, Precise location permission (non-continuous), SMS permission, Storage permission, Notification access permission.
 
 ## Full Policy
 
@@ -15,7 +15,7 @@ Ingalec South Africa
 ivor@ingalec.co.za
 
 ### Types of Data Collected
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Contacts permission, Precise location permission (non-continuous), Approximate location permission (non-continuous), Microphone permission, Phone permission, SMS permission and Storage permission. 
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Contacts permission, Precise location permission (non-continuous), Approximate location permission (non-continuous), Microphone permission, Phone permission, SMS permission, Storage permission and notification access permission.
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
 The Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.
 All Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without any consequences on the availability or the functioning of the service.
@@ -40,35 +40,42 @@ The Personal Data used for each purpose is outlined in the specific sections of 
 Depending on the User's specific device, this Application may request certain permissions that allow it to access the User's device Data as described below.
 By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
 The exact procedure for controlling app permissions may be dependent on the User's device and software.
-Please note that the revoking of such permissions might impact the proper functioning of this Application.
+Please note that the revoking of such permissions will impact the proper functioning of this Application.
 If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application.
 
 #### Approximate location permission (non-continuous)
 Used for accessing the User's approximate device location. This Application may collect, use, and share User location Data in order to provide location-based services.
 The geographic location of the User is determined in a manner that isn't continuous. This means that it is impossible for this Application to derive the approximate position of the User on a continuous basis. 
+The application requires location access to enable the sending of location reports to contacts when panic mode is activated.
 
 #### Contacts permission
 Used for accessing contacts and profiles on the User's device, including the changing of entries.
+The application requires access to contacts to allow the user to define emergency contacts to which notifications should be sent when panic mode is activated. 
 
 #### Microphone permission
 Used for accessing and recording microphone audio from the User's device.
+The application requires this permission to enable audio recordings to be made during panic mode.
 
 #### Phone permission
 Used for accessing a host of typical features associated with telephony. This enables, for instance, read-only access to the “phone state”, which means it enables access to the phone number of the device, current mobile network information, or the status of any ongoing calls.
+The application requires this permission in order to dismiss calls while panic mode is activated. 
 
 #### Precise location permission (non-continuous)
 Used for accessing the User's precise device location. This Application may collect, use, and share User location Data in order to provide location-based services.
 The geographic location of the User is determined in a manner that isn't continuous. This means that it is impossible for this Application to derive the exact position of the User on a continuous basis.
+The application requires location access to enable the sending of location reports to contacts when panic mode is activated.
 
 #### SMS permission
 Used for accessing features related to the User's messaging including the sending, receiving and reading of SMS.
+The application requires this permission in order to send SMS's to emergency contacts during panic mode.
 
 #### Storage permission
 Used for accessing shared external storage, including the reading and adding of any items.
+The application requires this permission in order to save recordings made during panic mode to disk and to remove such recordings again.
 
-### Detailed information on the processing of Personal Data
-Personal Data is collected for the following purposes and using the following services:
-1. Device permissions for Personal Data access
+#### Notification access permission
+Used for accessing device notifications when posted.
+The application requires this permission in order to dismiss notifications which are posted during panic mode, to prevent the panic mode disguise from begin compromised. The application does not access the content of these nofitications, but simply dismisses the notifications as they are posted. 
 
 ### Additional information about Data collection and processing
 
