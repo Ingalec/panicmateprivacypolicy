@@ -12,7 +12,7 @@ This Application collects some Personal Data from its Users.
 
 ### Owner and Data Controller
 Ingalec South Africa
-ivor@ingalec.co.za
+ingalecdev@gmail.com
 
 ### Types of Data Collected
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Contacts permission, Precise location permission (non-continuous), Approximate location permission (non-continuous), Microphone permission, Phone permission, SMS permission, Storage permission and notification access permission.
