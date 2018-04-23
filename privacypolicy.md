@@ -30,7 +30,7 @@ All user data is processed by the Panic Mate application on the user’s phone a
 All user data is processed by the Panic Mate application itself with the exception of emails containing location updates and/or audio recordings which are routed through a g-mail email provider to user specified contacts when the panic-mode feature of the application is triggered.
 
 #### Retention Time
-User information sent via email as described above will be retained for a period of 30 days on the email provider used to route the emails.
+User information sent via email as described above will be retained indefinately.
 
 ### The use of the collected Data
 The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Device permissions for Personal Data access. 
